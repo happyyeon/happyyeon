@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 
 I love programming and interested in various SW technologies. Recently, I am learning Django Framework. A recent project produced a "Gesture-based YouTube video control app" in an Android environment. Additionally, I want to develop my own web service platform.
 
+### Skills
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+
+
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=happyyeon&show_icons=true)
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=happyyeon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/happyyeon)
