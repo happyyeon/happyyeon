@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-I love programming and interested in various SW technologies. Recently, I am learning Django Framework. A recent project produced a "Gesture-based YouTube video control app" in an Android environment. Additionally, I want to develop my own web service platform.
-
+I love programming and interested in various SW technologies. Among them, I am interested in app programming. A recent project produced a "Gesture-based YouTube video control app" in an Android environment.
 ### ▶️ Project Simulation
 
 <a href="https://www.youtube.com/watch?v=tMfvdW4jtSI" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
